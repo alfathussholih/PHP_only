@@ -1,3 +1,5 @@
+Membuat database lewat terminal (windows and mac)
+
 /Applications/XAMPP/bin/mysql -u root -p (untuk membuka + mengaktifkan XAMPP)
 
 SHOW DATABASES; (untuk melihat database)
